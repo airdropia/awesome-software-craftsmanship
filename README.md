@@ -120,3 +120,5 @@ This should be a community driven effort to spread the manifesto and show respec
 * [Artisan Développeur](https://artisandeveloppeur.fr/podcast/) (🇫🇷)
 * [Agile in 3 minutes](https://agilein3minut.es/)
 * [Codurance Talks](https://codurancetalks.podbean.com/)
+
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that procedurally generates 7-layer shadow-box SVG mandalas (one file per physical layer) plus 6500px PNG renders, with quality gates and a static storefront; runs entirely on GitHub Actions.
